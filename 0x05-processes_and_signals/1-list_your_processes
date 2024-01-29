@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# The following is a bash script that shows a list of
+# currently running processes
+echo ps -ax -u -fH 
